@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../CQSR-Kafka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../FrontEndApps/test-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../Investigate_Data" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../AirFlowProjects/AirFlow01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../AirFlowProjects/dataEngineering1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ETL_S/ETL_Python_SQL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PySpark/apache-spark-by-example-diallo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PySpark/tp_spark_01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PythonForDataEngineer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../movie_recommender" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../python-ET-4314028" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../pythonOops" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../RustProjects/rust-game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../azuretest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../elasticsearch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../javaConcurrency" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../springboot-docker-compose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../system-design" vcs="Git" />
+  </component>
+</project>
