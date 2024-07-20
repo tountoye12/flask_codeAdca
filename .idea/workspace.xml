@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0ed6e14e-dde9-4b99-9b71-54f15dd78c1f" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../movie_recommender/.idea/movie_recommender.iml" afterDir="false" />
@@ -10,9 +13,8 @@
       <change beforePath="$PROJECT_DIR$/../AirFlowProjects/dataEngineering1/data_engineering.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AirFlowProjects/dataEngineering1/data_engineering.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ETL_S/ETL_Python_SQL" beforeDir="false" afterPath="$PROJECT_DIR$/../ETL_S/ETL_Python_SQL" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ETL_S/ETL_Python_SQL/ETL_With_Python/Chapter_1/solution_challenge1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../ETL_S/ETL_Python_SQL/ETL_With_Python/Chapter_1/solution_challenge1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LeanFlaskCodeAcademy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeanFlaskCodeAcademy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../movie_recommender" beforeDir="false" afterPath="$PROJECT_DIR$/../movie_recommender" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../movie_recommender/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../movie_recommender/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../movie_recommender/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie_recommender/requirements.txt" afterDir="false" />
@@ -91,11 +93,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721444075922</updated>
-      <workItem from="1721444084177" duration="506000" />
+      <workItem from="1721444084177" duration="1820000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
